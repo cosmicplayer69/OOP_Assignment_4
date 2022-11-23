@@ -209,7 +209,7 @@ int main()
         case 7:
         {
             ofstream MyFile("file.txt");
-            MyFile << "Hello, My name is Aditya Bhardwaj.";
+            MyFile << "Hello, My name is Niret Badgire";
             string myText;
             ifstream MyFileRead("file.txt");
             while (getline(MyFileRead, myText))
